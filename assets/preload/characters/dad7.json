@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SONICFUNDOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				342,
+				-96
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SONICFUNLEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SONICFUNRIGHT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SONICFUNUP instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SONICFUNIDLE instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST7",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "dad7",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		215
+	],
+	"camera_position": [
+		50,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

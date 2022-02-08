@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "X_Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "X_Idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "X_Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				46
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "X_Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				98
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "X_Up instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST6",
+	"position": [
+		-200,
+		80
+	],
+	"healthicon": "dad6",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		128,
+		203
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 5.8,
+	"scale": 1
+}

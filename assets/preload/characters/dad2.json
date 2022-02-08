@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NewPhase2Sonic Idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				-167
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-181
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-131
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NewPhase2Sonic Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NewPhase2Sonic Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-59
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "NewPhase2Sonic Laugh instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST2",
+	"position": [
+		-100,
+		-30
+	],
+	"healthicon": "dad2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		5,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
